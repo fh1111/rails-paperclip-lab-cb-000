@@ -17,6 +17,7 @@ want it to still look good if we haven't uploaded cover art yet.
 
 ## Instructions
 
+
 The base models, controllers, views and other files have been provided. There's seed data to get you started, and there are tests for the lab in the `spec` directory.
 
 Since we are adding new features to an existing application, there will
